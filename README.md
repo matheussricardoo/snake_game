@@ -41,7 +41,7 @@ pygame: >= 2.0.0
 
 ```bash
 # Clone the repository | Clone o repositório
-git clone https://github.com/seu-usuario/snake-game.git
+git clone https://github.com/matheussricardoo/snake-game.git
 
 # Navigate to project directory | Navegue até o diretório do projeto
 cd snake-game
